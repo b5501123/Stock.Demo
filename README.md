@@ -15,14 +15,15 @@
 
 # 示意圖
 
-漲停報
+- 漲停報
+
 ![image](https://user-images.githubusercontent.com/57789269/177086817-30047bfb-0e4d-4c27-8ea9-e71c2750807a.png)
 
-自結損益新聞
+- 自結損益新聞
 
 ![image](https://user-images.githubusercontent.com/57789269/177086906-a8ba1364-ba2e-420c-a450-f08fc06856a1.png)
 
-營收成長快報
+- 營收成長快報
 
 ![image](https://user-images.githubusercontent.com/57789269/177087083-7a572560-7987-483a-a021-455365f01487.png)
 
