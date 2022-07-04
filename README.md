@@ -13,7 +13,7 @@
 - 盈餘股票通知，分析EPS及本益比有沒有溢價
 - 股票及時漲停報及快速上漲通知，這個要配合卷商的SDK，目前Demo功能不會提供
 
-#示意圖
+# 示意圖
 
 漲停報
 ![image](https://user-images.githubusercontent.com/57789269/177086817-30047bfb-0e4d-4c27-8ea9-e71c2750807a.png)
@@ -23,4 +23,7 @@
 ![image](https://user-images.githubusercontent.com/57789269/177086906-a8ba1364-ba2e-420c-a450-f08fc06856a1.png)
 
 營收成長快報
+
+![image](https://user-images.githubusercontent.com/57789269/177087083-7a572560-7987-483a-a021-455365f01487.png)
+
 
